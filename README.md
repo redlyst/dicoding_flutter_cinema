@@ -2,11 +2,7 @@
 
 Submission of Dicoding Academy https://www.dicoding.com/academies/159
 
-<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_1.png" style="float: left; margin-right: 10px;" width="200" />
-<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_2.png" style="float: left; margin-right: 10px;" width="200" />
-<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_3.png" style="float: left; margin-right: 10px;" width="200" />
-<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_4.png" style="float: left; margin-right: 10px;" width="200" />
-<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_5.png" style="float: left; margin-right: 10px;" width="200" />
+<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_1.png" style="float: left; margin-right: 10px;" width="180" /> <img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_2.png" style="float: left; margin-right: 10px;" width="180" /> <img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_3.png" style="float: left; margin-right: 10px;" width="180" /><img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_4.png" style="float: left; margin-right: 10px;" width="180" /> <img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_5.png" style="float: left; margin-right: 10px;" width="180" />
 
 ## License
 
