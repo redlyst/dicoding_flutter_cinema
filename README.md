@@ -1,16 +1,14 @@
-# dicoding_cinema
+# Dicoding Cinema
 
-A new Flutter project.
+Submission of Dicoding Academy https://www.dicoding.com/academies/159
 
-## Getting Started
+<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_1.png" style="float: left; margin-right: 10px;" width="200" />
+<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_2.png" style="float: left; margin-right: 10px;" width="200" />
+<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_3.png" style="float: left; margin-right: 10px;" width="200" />
+<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_4.png" style="float: left; margin-right: 10px;" width="200" />
+<img src="https://raw.githubusercontent.com/redlyst/dicoding_flutter_cinema/master/Simulator_5.png" style="float: left; margin-right: 10px;" width="200" />
 
-This project is a starting point for a Flutter application.
+## License
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This file is subject to the terms and conditions defined in
+file <a href="https://github.com/redlyst/dicoding_flutter_cinema/blob/master/LICENSE.txt">MIT license</a>, which is part of this source code package.
